@@ -1,5 +1,3 @@
 # Python Program
-
-
-# array 
+# ! Tempat Untuk Latihan Python 
 
